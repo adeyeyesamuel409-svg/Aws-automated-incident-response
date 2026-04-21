@@ -57,12 +57,20 @@ I wanted hands‑on experience with:
 
 This project ended up being a great way to tie all of that together.  
 
----
+## Screenshots
 
-## Screenshots 
+### 1. Quarantined EC2 Instance
+![Quarantined EC2](screenshots/quarantined-ec2.png)
 
-- CloudWatch dashboard  
-- Quarantined EC2 instance  
-- DynamoDB incident entry  
-- SNS alert email  
+### 2. Lambda Execution Logs
+![Lambda Logs](screenshots/lambda-logs.png)
+
+### 3. DynamoDB Incident Record
+![DynamoDB Item](screenshots/dynamodb-item.png)
+
+### 4. SNS Alert Email
+![SNS Alert](screenshots/sns-alert.png)
+
+### 5. CloudWatch Dashboard
+![CloudWatch Dashboard](screenshots/cloudwatch-dashboard.png)
 
