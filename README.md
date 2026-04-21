@@ -1,7 +1,7 @@
 # Automated Incident Response on AWS
 
 I built this project to explore how security automation works in the cloud.  
-The idea was simple: if GuardDuty detects something suspicious on an EC2 instance, the system should react automatically — no waiting around for a human.
+The idea was simple: if GuardDuty detects something suspicious on an EC2 instance, the system should react automatically, no waiting around for a human.
 
 This setup now detects a finding, isolates the instance, logs the incident, and sends me an alert. All fully automated.
 
