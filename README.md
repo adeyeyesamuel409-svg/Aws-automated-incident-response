@@ -75,5 +75,5 @@ This project ended up being a great way to tie all of that together.
 ![CloudWatch Dashboard](screenshots/cloudwatch-dashboard.png)
 
 ## Architecture Diagram
-![Architecture Diagram](screenshots/Diagram.drawio.png)
+![Architecture Diagram](screenshots/Diagram.drawio2.drawio.png)
 
